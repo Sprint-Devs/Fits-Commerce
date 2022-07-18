@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sprintdevs.fits">
+    package="com.example.fits">
    <application
         android:label="fits"
         android:name="${applicationName}"
